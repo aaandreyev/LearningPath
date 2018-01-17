@@ -46,11 +46,13 @@
 4. - [ ] [andreis/interview](https://www.github.com/andreis/interview)
 5. - [ ] [jwasham/coding-interview-university](https://www.github.com/jwasham/coding-interview-university)
 6. - [ ] [kdn251/interviews](https://www.github.com/kdn251/interviews)
+7. - [ ] [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
   ##### Javascript
   1. - [ ] [kolodny/exercises](https://www.github.com/kolodny/exercises)
   ##### Android
   1. - [ ] [MindorksOpenSource/android-interview-questions](https://www.github.com/MindorksOpenSource/android-interview-questions)
+  2. - [ ] [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A/tree/master/english)
 
 
 ***  
