@@ -64,7 +64,7 @@
  3. - [ ] [ryanmcdermott/clean-code-javascript](https://www.github.com/ryanmcdermott/clean-code-javascript)
  4. - [ ] [Chalarangelo/30-seconds-of-code](https://www.github.com/Chalarangelo/30-seconds-of-code)
  5. - [ ] [wearehive/project-guidelines](https://www.github.com/wearehive/project-guidelines)
- 6. - [ ] [loverajoel/jstips](https://www.github.com/loverajoel / jstips)
+ 6. - [ ] [loverajoel/jstips](https://www.github.com/loverajoel/jstips)
  ##### Node
  1. - [ ] [RisingStack/node-style-guide](https://www.github.com/RisingStack/node-style-guide)
  2. - [ ] []
