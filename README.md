@@ -4,7 +4,7 @@
 
 ### Trivia & CS
 1. - [ ] [alex/what-happens-when](https://www.github.com/alex/what-happens-when)
-2. - [ ] [mtdvio/every-programmer-should-know](https://www.github.com/mtdvio/every-programmer-should-know)
+2. - [ ] [mtdvio/every-programmer-should-know](https://github.com/aaandreyev/every-programmer-should-know)
 3. - [ ] [braydie/HowToBeAProgrammer](https://www.github.com/braydie/HowToBeAProgrammer)
 
 ***
