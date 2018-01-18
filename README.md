@@ -51,7 +51,8 @@
   ##### Javascript
   1. - [ ] [kolodny/exercises](https://www.github.com/kolodny/exercises)
   ##### Android
-  1. - [ ] [MindorksOpenSource/android-interview-questions](https://www.github.com/MindorksOpenSource/android-interview-questions)
+  1. - [ ] [MindorksOpenSource/android-interview-questions](https://github.com/aaandreyev/android-interview-questions)  
+    In process
   2. - [ ] [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A/tree/master/english)
 
 
