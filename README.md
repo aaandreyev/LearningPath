@@ -186,7 +186,7 @@
 ### Summary  
 ##### JS Tips
 <details>
-  <summary>00. Insert item insider Array  </summary>
+  <summary>00. Insert item insider Array</summary>
 
 At the end:  
 ```javascript
