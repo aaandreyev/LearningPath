@@ -165,25 +165,28 @@
 ### Summary  
   ##### JS Tips
   00. Insert item inside Array  
-    At the end:  
-    ```
-    var arr = [1, 2, 3, 4, 5];
-    var arr2 = []
 
-    arr.push(6);
-    arr[arr.length] = 7; //fastest
-    arr2 = arr.concat([8]); //slowest
+    At the end:  
+    ```javascript
+    var arr = [1, 2, 3, 4, 5];  
+    var arr2 = [];  
+
+    arr.push(6);  
+    arr[arr.length] = 7; //fastest  
+    arr2 = arr.concat([8]); //slowest  
     ```  
+
     At the beginning:  
     ```
-    var arr = [1, 2, 3];
+    var arr = [1, 2, 3];  
 
-    arr.unshift(0); //fastest
-    [0].concat(arr);
+    arr.unshift(0); //fastest  
+    [0].concat(arr);  
     ```  
     In the middle:  
-    ```
-    var items = [1, 2, 3, 4];
 
-    items.splice(items.length / 2, 0, 2.2);
-    ```
+    ``` 
+    var items = [1, 2, 3, 4];  
+
+    items.splice(items.length / 2, 0, 2.2);  
+    ```  
