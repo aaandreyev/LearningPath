@@ -157,4 +157,9 @@
  ##### Python
  1. - [ ] [donnemartin/interactive-coding-challenges](https://https://www.github.com/donnemartin/interactive-coding-challenges)
 
-1. - [ ] [SamyPesse/How-to-Make-a-Computer-Operating-System](https://www.github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+1. - [ ] [SamyPesse/How-to-Make-a-Computer-Operating-System](https://www.github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)  
+  
+  
+***  
+### Summary  
+  
