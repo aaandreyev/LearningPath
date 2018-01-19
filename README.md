@@ -64,7 +64,8 @@
  3. - [ ] [ryanmcdermott/clean-code-javascript](https://www.github.com/ryanmcdermott/clean-code-javascript)
  4. - [ ] [Chalarangelo/30-seconds-of-code](https://www.github.com/Chalarangelo/30-seconds-of-code)
  5. - [ ] [wearehive/project-guidelines](https://www.github.com/wearehive/project-guidelines)
- 6. - [ ] [loverajoel/jstips](https://www.github.com/loverajoel/jstips)
+ 6. - [ ] [loverajoel/jstips](https://www.github.com/loverajoel/jstips)  
+  [Summary](#js-tips)
  ##### Node
  1. - [ ] [RisingStack/node-style-guide](https://www.github.com/RisingStack/node-style-guide)
  2. - [ ] []
@@ -158,8 +159,31 @@
  1. - [ ] [donnemartin/interactive-coding-challenges](https://https://www.github.com/donnemartin/interactive-coding-challenges)
 
 1. - [ ] [SamyPesse/How-to-Make-a-Computer-Operating-System](https://www.github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)  
-  
-  
+
+
 ***  
 ### Summary  
-  
+  ##### JS Tips
+  00. Insert item inside Array  
+    At the end:  
+    ```
+    var arr = [1, 2, 3, 4, 5];
+    var arr2 = []
+
+    arr.push(6);
+    arr[arr.length] = 7; //fastest
+    arr2 = arr.concat([8]); //slowest
+    ```  
+    At the beginning:  
+    ```
+    var arr = [1, 2, 3];
+
+    arr.unshift(0); //fastest
+    [0].concat(arr);
+    ```  
+    In the middle:  
+    ```
+    var items = [1, 2, 3, 4];
+
+    items.splice(items.length / 2, 0, 2.2);
+    ```
